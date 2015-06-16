@@ -6,18 +6,18 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.selectica.rcf.base</groupId>
-    <artifactId>base</artifactId>
+    <groupId>com.selectica.rcf.package201506161</groupId>
+    <artifactId>package201506161</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>Base</name>
+    <name>Package201506161</name>
     <properties>
         <eclm.version>1.0.0-SNAPSHOT</eclm.version>
         <rcf.version>1.0.0-SNAPSHOT</rcf.version>
         <serviceUrl>http://rcfproj.aws.selectica.net:8080</serviceUrl>
         <workbook>workbook.xlsx</workbook>
-        <workbookId>1kv2uh6NHSW18Gi1Zve8wdNzq5GN9Htmn1yJ5vxMyiWw</workbookId>
-        <workbookName>Base-rcf</workbookName>
+        <workbookId>1cyEVwGd5iOIfftFF_Bw3GnVcdhHfh3zNok2Ao7TBf0E</workbookId>
+        <workbookName>Package201506161-rcf</workbookName>
         <repositoryUrl>https://github.com/epavlovskaya/rcfLenaBaseDemo.git</repositoryUrl>
         <googleSync>false</googleSync>
         <upload>false</upload>
@@ -100,7 +100,7 @@
                             <goal>copy-resources</goal>
                         </goals>
                         <configuration>
-                            <outputDirectory>${basedir}/target/generated-resources/com/selectica/Base/definitions</outputDirectory>
+                            <outputDirectory>${basedir}/target/generated-resources/com/selectica/Package201506161/definitions</outputDirectory>
                             <resources>
                                 <resource>
                                     <directory>src/main/resources/com/selectica/Base/definitions</directory>

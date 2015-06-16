@@ -18,4 +18,13 @@
   <string>com.selectica.Base.stubs.bo.DCPBO</string>
   <string>com.selectica.Base.stubs.bo.DCustomerBO</string>
   <string>com.selectica.Base.stubs.bo.DVendorBO</string>
+  <string>com.selectica.Package201506161.stubs.bo.CNDABO</string>
+  <string>com.selectica.Package201506161.stubs.bo.CProcBO</string>
+  <string>com.selectica.Package201506161.stubs.bo.CFR1BO</string>
+  <string>com.selectica.Package201506161.stubs.bo.CGenBO</string>
+  <string>com.selectica.Package201506161.stubs.bo.CSalesBO</string>
+  <string>com.selectica.Package201506161.stubs.bo.RREPBO</string>
+  <string>com.selectica.Package201506161.stubs.bo.DCPBO</string>
+  <string>com.selectica.Package201506161.stubs.bo.DCustomerBO</string>
+  <string>com.selectica.Package201506161.stubs.bo.DVendorBO</string>
 </list>

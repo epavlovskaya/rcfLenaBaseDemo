@@ -1,6 +1,6 @@
 package com.selectica.Base.sqlvalue;
 
-import com.selectica.Base.stubs.DCPDetails;
+import com.selectica.Package201506161.stubs.DCPDetails;
 import com.selectica.error.BaseException;
 import com.selectica.expression.FQNodeEvaluator;
 import com.selectica.mcp.sql.query.QModelFilterType;

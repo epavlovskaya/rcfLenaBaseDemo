@@ -1,4 +1,4 @@
-package com.selectica.Base.tests.automatic;
+package com.selectica.Package201506161.tests.automatic;
 
 import com.selectica.qa.automation.dto.SuiteTO;
 import com.selectica.qa.automation.test.SuiteIT;
